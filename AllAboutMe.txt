@@ -1,0 +1,10 @@
+1. What is your name?
+Miles Willis
+2. What is your favorite color?
+Yellow
+3. What is your favorite thing to do? (other than being in my class? lol)
+eat good food
+4. What is your GitHub username?
+mwillis212
+5. What is the link to the repository for this project?
+https://github.com/MWillis212/cobb6firstassignment.git
